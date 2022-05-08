@@ -17,7 +17,7 @@ $ yarn start:dev
 
 ### Guide for this repository is here:
 
-https://trungquandev.com/coming-soon
+https://youtube.com/playlist?list=PLP6tw4Zpj-RK9PxvjySFM7jc5aNn_RyLX
 
 Author: Trung Quân
 
@@ -25,6 +25,8 @@ Blog: https://trungquandev.com/
 
 CV: https://cv.trungquandev.com/
 
-"A little bit of fragrance always clings to the hands that gives flowers!"
+YouTube: https://www.youtube.com/c/TrungquandevOfficial
+
+"A bit of fragrance clings to the hand that gives flowers!"
 
 Thanks for watching!
