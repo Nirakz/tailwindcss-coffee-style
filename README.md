@@ -18,6 +18,7 @@ $ yarn start:dev
 ### Guide for this repository is here:
 
 Guide: https://youtube.com/playlist?list=PLP6tw4Zpj-RK9PxvjySFM7jc5aNn_RyLX
+
 Demo: https://coffee-style-trungquandev.web.app/
 
 Author: Trung Quân
